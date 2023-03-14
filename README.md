@@ -10,3 +10,6 @@ git pull = git fetch + git merge
 ```
 git add .
 ```
+
+
+coooooooooora
